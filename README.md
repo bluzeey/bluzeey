@@ -81,7 +81,7 @@
 
 </details>
 
-[website]: sahil-maheshwari.netlify.app/
+[website]: https://sahil-maheshwari.netlify.app/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
