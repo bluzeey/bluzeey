@@ -1,6 +1,6 @@
 ### Hi there, I'm Sahil - aka [bluzeey][website] 👋
 
-[![Website](https://img.shields.io/website?label=Sahil.com&style=for-the-badge&url=https://sahil-maheshwari.netlify.app/)](https://sahil-maheshwari.netlify.app/)
+[[Website](https://img.shields.io/website?label=Sahil.com&style=for-the-badge&url=https://sahil-maheshwari.netlify.app/)](https://sahil-maheshwari.netlify.app/)
 
 
 ## I'm a  Developer, and Student, Dreamer!!
