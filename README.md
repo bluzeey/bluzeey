@@ -3,15 +3,11 @@
 
 
 ## I'm a  Developer, and Student, Dreamer!!
-
-<br />
-
+<hr />
 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me
-
-
-<br />
+<hr />
 My Email:sahilm1711@gmail.com
 
 
