@@ -8,7 +8,7 @@
 
 ### Connect with me
 <hr />
-[My Email](mailto:sahilm1711@gmail.com)
+[Contact Us](mailto:admin@cloudhadoop.com)
 
 
 ### Languages and Tools:
