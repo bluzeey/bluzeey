@@ -1,5 +1,4 @@
 ### Hi there, I'm Sahil - aka [bluzeey][website] 👋
-<br />
 [![Website](https://img.shields.io/website?label=Sahil.com&style=for-the-badge&url=https://sahil-maheshwari.netlify.app/)](https://sahil-maheshwari.netlify.app/)
 
 
