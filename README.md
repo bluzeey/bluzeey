@@ -1,13 +1,14 @@
 ### Hi there, I'm Sahil - aka [bluzeey][website] 👋
-
+<br />
 [![Website](https://img.shields.io/website?label=Sahil.com&style=for-the-badge&url=https://sahil-maheshwari.netlify.app/)](https://sahil-maheshwari.netlify.app/)
 
 
 ## I'm a  Developer, and Student, Dreamer!!
-
+<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me
+<br />
 - My Email:sahilm1711@gmail.com
 
 
