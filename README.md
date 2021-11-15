@@ -7,7 +7,7 @@
 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me
-<a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sahilm1711@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 ### Languages and Tools:
