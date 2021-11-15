@@ -8,7 +8,7 @@
 
 ### Connect with me
 <hr />
-[My Email](mailto:sahilm1711@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[My Email](mailto:sahilm1711@gmail.com)
 
 
 ### Languages and Tools:
