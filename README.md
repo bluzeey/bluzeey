@@ -3,8 +3,8 @@
 
 
 ## I'm a  Developer, and Student, Dreamer!!
-🥅 2022 Goals : 
-1.)Complete some of my personal projects 
+🥅 2022 Goals :__ 
+1.)Complete some of my personal projects__
 2.)Learn German and Spanish (B2)
 
 ### Connect with me
