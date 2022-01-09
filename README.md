@@ -3,7 +3,6 @@
 
 
 ## I'm a  Developer, and Student, Dreamer!!
-<hr />
 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me
