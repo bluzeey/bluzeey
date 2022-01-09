@@ -7,7 +7,7 @@
 
 ### Connect with me
 <a href="mailto:sahilm1711@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ### Languages and Tools:
 
@@ -37,4 +37,5 @@
 
 </details>
 
-[website]: https://sahil-maheshwari.netlify.app/
+[website]: https://sahil-maheshwari.com/
+[linkedin-url]: https://linkedin.com/in/sahil-maheshwari
