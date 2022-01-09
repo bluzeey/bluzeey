@@ -3,7 +3,8 @@
 
 
 ## I'm a  Developer, and Student, Dreamer!!
-🥅 2022 Goals: Complete some of my personal projects, Learn German and Spanish (B2)
+🥅 2022 Goals : Complete some of my personal projects
+              : Learn German and Spanish (B2)
 
 ### Connect with me
 <a href="mailto:sahilm1711@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
