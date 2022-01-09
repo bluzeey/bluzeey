@@ -38,4 +38,5 @@
 </details>
 
 [website]: https://sahil-maheshwari.com/
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
