@@ -42,6 +42,6 @@ Learn German and Spanish (B2)
 
 [website]: https://sahil-maheshwari.com/
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/Twitter-72BCD4?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]:https://twitter.com/TalkinIdeas
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
