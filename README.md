@@ -11,7 +11,7 @@ Learn German and Spanish (B2)
 ### Connect with me
 <a href="mailto:sahilm1711@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Twitter][twitter-shield]][twitter-url]
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -42,4 +42,6 @@ Learn German and Spanish (B2)
 
 [website]: https://sahil-maheshwari.com/
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]:https://twitter.com/TalkinIdeas
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
