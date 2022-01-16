@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com/)" title="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com)"/>](https://sahil-maheshwari.com/)
+[<img src="https://raw.githubusercontent.com/bluzeey/bluzeey/master/intro.gif" alt="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com/)" title="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com)"/>](https://sahil-maheshwari.com/)
 [![Website](https://img.shields.io/website?label=sahil-maheshwari.com&style=for-the-badge&url=https://sahil-maheshwari.com/)](https://sahil-maheshwari.com/)
 
 
