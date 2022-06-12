@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/bluzeey/bluzeey/master/intro.gif" alt="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com/)" title="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com)"/>](https://sahil-maheshwari.com/)
 [![Website](https://img.shields.io/website?label=sahil-maheshwari.com&style=for-the-badge&url=https://sahil-maheshwari.com/)](https://sahil-maheshwari.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=bluzeey.bluzeey)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">
 ## I'm a  Developer, and Student, Dreamer!!
 🥅 2022 Goals :\
 Complete some of my personal projects\
