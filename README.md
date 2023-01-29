@@ -1,5 +1,5 @@
 [<img src="https://raw.githubusercontent.com/bluzeey/bluzeey/master/intro.gif" alt="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com/)" title="👋 Hi there! I'm (Sahil Maheshwari)|https://sahil-maheshwari.com)"/>](https://sahil-maheshwari.com/)
-[![Website](https://img.shields.io/website?label=sahilmaheshwari.com&style=for-the-badge&url=https://sahil-maheshwari.com/)](https://sahilmaheshwari.com/)
+[![Website](https://img.shields.io/website?label=sahilmaheshwari.com&style=for-the-badge&url=https://sahilmaheshwari.com/)](https://sahilmaheshwari.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=bluzeey.bluzeey)
 
 ## I'm a  Developer, and Student, Dreamer!!
