@@ -50,12 +50,3 @@ I enjoy building web experiences, exploring new technologies, and turning ideas 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-<details>
-  <summary><b>⚡ My GitHub Stats</b></summary>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=bluzeey&show_icons=true&theme=radical" alt="Sahil Maheshwari's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluzeey&layout=compact&theme=radical" alt="Top Languages" />
-</details>
